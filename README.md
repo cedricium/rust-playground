@@ -1,4 +1,4 @@
-# rust-playground :gear: <img src="https://img.shields.io/badge/language-rust-orange.svg"> <img src="https://img.shields.io/badge/license-MIT-blue.svg">
+# rust-playground :gear: [![language: rust](https://img.shields.io/badge/language-rust-orange.svg)](https://github.com/topics/rust) [![license: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/cedricium/rust-playground/blob/master/LICENSE.md)
 
 A collection of simple but complete and executable Rust applications. These examples were primarily taken from *[The Book - The Rust Programming Language (2nd ed.)](https://doc.rust-lang.org/book/second-edition/index.html)* which I am reading in order to learn Rust.
 
