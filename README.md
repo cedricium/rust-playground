@@ -1,4 +1,4 @@
-# rust-playground :gear:
+# rust-playground :gear: <img src="https://img.shields.io/badge/language-rust-orange.svg"> <img src="https://img.shields.io/badge/license-MIT-blue.svg">
 
 A collection of simple but complete and executable Rust applications. These examples were primarily taken from *[The Book - The Rust Programming Language (2nd ed.)](https://doc.rust-lang.org/book/second-edition/index.html)* which I am reading in order to learn Rust.
 
@@ -34,3 +34,7 @@ If you find a problem, please [file a bug](https://github.com/cedricium/rust-pla
 
 Contributions are warmly welcomed, whether they are whole new examples, new features,
 or bug fixes to existing example code. Simply clone this repository, make your changes, then open a pull-request.
+
+## License
+
+[MIT](https://github.com/cedricium/rust-playground/blob/master/LICENSE.md)
